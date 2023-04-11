@@ -1,4 +1,4 @@
-# ||EduardoRevolution||
+# ||Eduardo's Revolution||
 ![matrix](https://user-images.githubusercontent.com/109439346/214072864-cf220939-f2af-4ec0-8bc0-4ab8f97f8ca6.gif)
 
 <!---
